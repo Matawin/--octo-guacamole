@@ -1,3 +1,0 @@
-# --octo-guacamole
-เดิมๆๆ
-
